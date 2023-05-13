@@ -16,7 +16,6 @@ This is my learning project which you can run on your computer in following step
 `
 
 
-[Presentation](ab-testing-presentation.pptx)
 [Referat](ab-testing-results.pdf)
 
 
